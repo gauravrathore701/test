@@ -3,7 +3,7 @@ const express = require('express');
 app = express()
 
 app.get('/', (req,res) => {
-    res.send('Connected mf!!!');
+    res.render('index.html');
 })
 
 app.listen(3000, () => {
