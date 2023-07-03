@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>STFU</h1>
+    <?php
+    echo 'Redirecting Soon'
+    ?>
 </body>
 </html>
